@@ -1,0 +1,22 @@
+ table{
+      font-family: arial, sans-serif;
+      border-collapse:collapse;
+      width:100%;
+      background-color: white;
+    }
+    td, th {
+      border:1px solid #cccccc;
+      padding:10px;
+    }
+    th {
+      font-weight: bold;
+      text-transform: uppercase;
+      background-color: wheat;
+    }
+   input[type=button] {
+        background-color: rgb(196, 36, 68);
+        height:3em;
+        width:80px;
+    }
+
+  

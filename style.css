@@ -1,0 +1,33 @@
+body {
+    background-image:url('leaves.jpg');
+    opacity: 1.5;
+}
+#mainbox {
+    display:flex;
+    justify-content: center;
+}
+#username {
+    width:230px;
+}
+#password {
+    margin-top:1em;
+}
+#button {
+    height:3em;
+    width:80px;
+    cursor:pointer;
+    position: absolute;
+    padding: 35px;
+    margin-left: 30px;
+    
+}
+#box {
+    border-radius:5%;
+    padding:1em 2em;
+    margin-top:8em;
+    border: 1px solid white;
+    box-shadow:0 19px 19px rgba(0,0,0,0.3);
+    width:230px;
+    height: 230px;
+    align-items: center;
+}
